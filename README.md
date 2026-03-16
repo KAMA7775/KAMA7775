@@ -5,6 +5,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAMA7775&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KAMA7775&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAMA7775&layout=compact)
